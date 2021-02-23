@@ -1,2 +1,3 @@
 # mpesa-api-desktop-client
-A client implementation of our internal daraja-API implementation
+A java swing desktop application <br/>
+client implementation of our internal daraja-API implementation
